@@ -1,0 +1,227 @@
+store,date,game,price,is_game
+Google Play,2/13/14,Game Dev Story,2.5,TRUE
+Google Play,4/22/14,Compulsive,0.99,TRUE
+Google Play,6/30/14,Clash of Clans,19.99,TRUE
+Google Play,8/1/14,Clash of Clans,49.99,TRUE
+Google Play,11/5/14,Monument Valley,3.99,TRUE
+Google Play,11/16/14,Clash of Clans,49.99,TRUE
+Google Play,12/7/14,DraStic DS Emulator,5.99,FALSE
+Google Play,12/11/14,The Room,0.99,TRUE
+Google Play,12/11/14,The Room Two,0.59,TRUE
+Google Play,2/19/15,Blip Blup,1.99,TRUE
+Google Play,2/24/15,Clash of Clans,49.99,TRUE
+Google Play,4/16/15,94%,2.99,TRUE
+Google Play,5/1/15,LIMBO,0.99,TRUE
+Google Play,5/14/15,Tamagotchi Classic,0.99,TRUE
+Google Play,5/15/15,Hearthstone,2.99,TRUE
+Google Play,5/15/15,Hearthstone,2.99,TRUE
+Google Play,5/15/15,Hearthstone,9.99,TRUE
+Google Play,5/15/15,Hearthstone,9.99,TRUE
+Google Play,5/16/15,Hearthstone,9.99,TRUE
+Google Play,5/16/15,Hearthstone,9.99,TRUE
+Google Play,5/16/15,Hearthstone,2.99,TRUE
+Google Play,5/18/15,Hearthstone,19.99,TRUE
+Google Play,5/19/15,Hearthstone,24.99,TRUE
+Google Play,5/23/15,Hearthstone,9.99,TRUE
+Google Play,6/24/15,Clash of Clans,9.99,TRUE
+Google Play,7/30/15,Dragon City,0.99,TRUE
+Google Play,8/4/15,Dragon City,9.99,TRUE
+Google Play,8/30/15,Episode,9.99,TRUE
+Google Play,10/15/15,UniWar,0.99,TRUE
+Google Play,12/24/15,Minecraft,0.1,TRUE
+Google Play,3/8/16,Clash Royale,99.99,TRUE
+Google Play,3/14/16,Clash Royale,99.99,TRUE
+Google Play,3/14/16,Clash Royale,50,TRUE
+Google Play,3/14/16,Clash Royale,50,TRUE
+Google Play,3/17/16,Clash Royale,99.99,TRUE
+Google Play,4/18/16,Clash Royale,99.99,TRUE
+Google Play,4/18/16,My Boy! - GBA Emulator,4.99,FALSE
+Google Play,6/17/16,Tiny Tower,19.99,TRUE
+Google Play,7/3/16,A Dark Room,0.99,TRUE
+Google Play,7/9/16,Pokemon Go,9.99,TRUE
+Google Play,7/10/16,Pokemon Go,19.99,TRUE
+App Store,7/30/16,Pokemon Go,10.81,TRUE
+App Store,7/31/16,Pokemon Go,21.64,TRUE
+App Store,8/7/16,Pokemon Go,21.64,TRUE
+App Store,8/13/16,Gordon Ramsay Dash,21.64,TRUE
+App Store,8/13/16,Pokemon Go,21.64,TRUE
+App Store,8/19/16,Gordon Ramsay Dash,10.8,TRUE
+App Store,8/23/16,Pokemon Go,21.64,TRUE
+App Store,8/27/16,Gordon Ramsay Dash,27.05,TRUE
+App Store,8/28/16,Cooking Academy,12.97,TRUE
+App Store,9/3/16,Pokemon Go,43.29,TRUE
+App Store,9/14/16,Pokemon Go,108.24,TRUE
+Google Play,9/24/16,Clash Royale,9.99,TRUE
+App Store,9/24/16,Roller Coaster Tycoon,5.4,TRUE
+App Store,9/30/16,Clash Royale,9.99,TRUE
+App Store,10/6/16,Clash Royale,5.4,TRUE
+App Store,10/22/16,Happy Street,2.15,TRUE
+App Store,10/23/16,Happy Street,21.64,TRUE
+App Store,10/23/16,Happy Street,5.4,TRUE
+App Store,10/23/16,Happy Street,21.64,TRUE
+App Store,10/28/16,Happy Street,21.64,TRUE
+App Store,10/29/16,Happy Street,21.64,TRUE
+App Store,11/13/16,Pokemon Go,108.24,TRUE
+App Store,12/8/16,Neo Monsters,1.07,TRUE
+App Store,12/24/16,Clash Royale,32.45,TRUE
+App Store,1/16/17,Clash Royale,10.81,TRUE
+App Store,2/5/17,Clash Royale,10.81,TRUE
+App Store,2/5/17,Pokemon Duel,5.4,TRUE
+App Store,2/10/17,Silicon Valley: Billionaire,16.23,TRUE
+Google Play,3/6/17,Pokemon Go,39.99,TRUE
+App Store,3/10/17,Clash Royale,54.11,TRUE
+App Store,3/13/17,Transistor,5.4,TRUE
+App Store,3/13/17,Euclidean Lands,3.24,TRUE
+App Store,3/13/17,Clash Royale,21.64,TRUE
+App Store,3/19/17,Bit City,5.4,TRUE
+App Store,4/27/17,Pokemon Go,43.29,TRUE
+App Store,6/6/17,Monument Valley 2,5.4,TRUE
+App Store,7/9/17,Clash Royale,54.11,TRUE
+App Store,7/19/17,Biz Builder Delux,5.4,TRUE
+App Store,7/30/17,Flow,4.32,TRUE
+App Store,9/2/17,Pokemon Go,108.24,TRUE
+App Store,9/17/17,Clash Royale,108.24,TRUE
+App Store,9/28/17,Clash Royale,5.4,TRUE
+App Store,10/17/17,Pixel Starships,108.24,TRUE
+App Store,10/26/17,Pixel Starships,4.32,TRUE
+App Store,11/3/17,Pixel Starships,5.4,TRUE
+App Store,11/10/17,Pixel Starships,108.24,TRUE
+App Store,11/23/17,Pixel Starships,112.56,TRUE
+App Store,12/1/17,Pixel Starships,5.4,TRUE
+App Store,12/26/17,Pixel Starships,4.32,TRUE
+App Store,1/4/18,Trivia Crack,3.25,TRUE
+App Store,1/8/18,World Cruise Story,1.07,TRUE
+App Store,1/24/18,Kingdom Rush Frontiers,2.15,TRUE
+App Store,1/24/18,Pixel Starships,4.32,TRUE
+Google Play,2/9/18,Pixel Starships,3.99,TRUE
+App Store,2/16/18,Pixel Starships,10.81,TRUE
+App Store,2/24/18,Pixel Starships,4.32,TRUE
+App Store,2/24/18,Florence,3.24,TRUE
+Google Play,2/27/18,Catch Them -- Pokimon Boom,4.99,TRUE
+Google Play,2/27/18,Catch Them -- Pokimon Boom,0.99,TRUE
+Google Play,2/27/18,Catch Them -- Pokimon Boom,19.99,TRUE
+Google Play,3/9/18,Pixel Starships,3.99,TRUE
+App Store,3/24/18,Pixel Starships,4.32,TRUE
+App Store,3/31/18,SimCity BuildIt,1.07,TRUE
+Google Play,4/9/18,Pixel Starships,3.99,TRUE
+App Store,4/9/18,SimCity BuildIt,108.24,TRUE
+Google Play,5/9/18,Pixel Starships,3.99,TRUE
+App Store,5/13/18,.projekt,2.16,TRUE
+App Store,5/25/18,Pokemon Go,4.32,TRUE
+Google Play,6/9/18,Pixel Starships,3.99,TRUE
+App Store,6/25/18,Westworld,6.47,TRUE
+Google Play,7/9/18,Pixel Starships,3.99,TRUE
+App Store,7/28/18,Pokemon Go,108.24,TRUE
+App Store,8/11/18,Pocket City,5.4,TRUE
+App Store,8/20/18,Nano for Reddit,2.15,FALSE
+App Store,9/11/18,Flow Free,3.24,TRUE
+App Store,11/08/2018,Carrot Weather,3.99,TRUE
+Google Play,11/17/18,Race for the Galaxy,6.99,TRUE
+App Store,11/18/18,Pythonista 3,10.81,FALSE
+App Store,11/19/18,Race for the Galaxy,7.57,TRUE
+App Store,11/24/18,Race for the Galaxy,11.97,TRUE
+Google Play,12/05/2018,Carrot Weather,3.99,FALSE
+Google Play,12/15/18,Mini Metro,0.99,TRUE
+Google Play,1/7/19,WatchMacker Premium (WatchMacker Watch Faces),8.49,FALSE
+Google Play,1/12/19,Pokemon Go,108.24,TRUE
+App Store,1/25/19,Stardew Valley,8.65,TRUE
+App Store,2/5/19,Life Cycle Subscription,9.99,FALSE
+App Store,2/18/19,Coda,27.05,FALSE
+App Store,2/21/19,Prompt 2,16.23,FALSE
+App Store,3/5/19,Life Cycle Subscription,9.99,FALSE
+App Store,3/22/19,Pixel Starships,15.13,TRUE
+App Store,3/27/19,Life Cycle Subscription,9.99,FALSE
+App Store,4/5/19,Pixel Starships,108.24,TRUE
+App Store,4/21/19,Pixel Starships,4.32,TRUE
+App Store,5/22/19,Pixel Starships,4.32,TRUE
+App Store,5/31/19,Pixel Starships,108.24,TRUE
+App Store,6/7/19,AutoSleep Tracker for Watch,3.24,FALSE
+App Store,6/14/19,Clue: Expansion,1.07,TRUE
+App Store,6/21/19,Pixel Starships,4.32,TRUE
+App Store,6/21/19,Harry Potter - Wizarding Universe,24.87,TRUE
+App Store,7/1/19,Clash Royale,5.401675,TRUE
+App Store,7/1/19,Harry Potter - Wizarding Universe,10.814175,TRUE
+App Store,7/5/19,GoodNotes 5,8.649175,FALSE
+App Store,7/5/19,Mr. Love,2.154175,TRUE
+App Store,7/6/19,Mr. Love,1.07,TRUE
+App Store,7/6/19,iCloud,0.99,FALSE
+App Store,7/11/19,Mr. Love,31.33,TRUE
+App Store,7/13/19,Mr. Love,42.15,TRUE
+App Store,7/17/19,Pixel Starships,4.32,TRUE
+App Store,7/17/19,Mr. Love,19.46335,TRUE
+App Store,7/28/19,Mr. Love,1.07,TRUE
+App Store,8/3/19,Mr. Love,5.4,TRUE
+App Store,8/3/19,Pokemon Go,108.24,TRUE
+App Store,8/6/19,iCloud,0.99,FALSE
+App Store,8/11/19,Mr. Love,10.76,TRUE
+App Store,8/20/19,Pixel Starships,4.32,TRUE
+App Store,8/20/19,Mr. Love,5.401675,TRUE
+App Store,8/24/19,Mr. Love,1.07,TRUE
+App Store,9/2/19,Clash Royale,5.4,TRUE
+App Store,9/10/19,Mr. Love,4.32,TRUE
+App Store,9/19/19,Pixel Starships,4.32,TRUE
+App Store,9/19/19,Mr. Love,1.07,TRUE
+App Store,9/25/19,Dark Sky Weather,4.32,FALSE
+App Store,9/30/19,Mr. Love,1.07,TRUE
+App Store,10/6/19,iCloud,0.99,FALSE
+App Store,10/6/19,Mr. Love,11.88,TRUE
+App Store,10/11/19,Clash Royale,5.4,TRUE
+App Store,10/11/19,Mr. Love,1.07,TRUE
+App Store,10/14/19,Mr. Love,17.31,TRUE
+App Store,10/19/19,Pixel Starships,4.32,TRUE
+App Store,10/19/19,Apple Arcade,5.4,TRUE
+App Store,10/28/19,Minecraft,7.566675,TRUE
+App Store,10/28/19,Mr. Love,9.673325,TRUE
+App Store,1/19/20,Apple Developer,98.99,FALSE
+App Store,1/24/20,Mr. Love,4.32,TRUE
+App Store,1/25/20,Mr. Love,5.4,TRUE
+App Store,1/31/20,Mr. Love,1.07,TRUE
+App Store,2/6/20,iCloud,0.99,FALSE
+App Store,2/9/20,YouTube,17.31,FALSE
+App Store,2/19/20,Pixel Starships,4.32,TRUE
+App Store,2/19/20,Apple Arcade,5.4,TRUE
+App Store,2/25/20,iBook,14.06,FALSE
+App Store,3/6/20,Clash Royale,5.4,TRUE
+App Store,3/6/20,Mr. Love,4.32,TRUE
+App Store,3/6/20,iCloud,0.99,FALSE
+App Store,3/10/20,YouTube,17.31,FALSE
+App Store,3/19/20,Pixel Starships,4.32,TRUE
+App Store,3/19/20,Apple Arcade,5.4,TRUE
+App Store,4/6/20,iCloud,0.99,FALSE
+App Store,4/13/20,YouTube,17.31,FALSE
+App Store,4/15/20,Mr. Love,5.39,TRUE
+App Store,5/6/20,iCloud,0.99,FALSE
+App Store,5/9/20,YouTube,17.31,FALSE
+App Store,5/20/20,Notability,1.07,FALSE
+App Store,5/31/20,Magnet,2.15,FALSE
+App Store,6/6/20,iCloud,0.99,FALSE
+App Store,6/13/20,YouTube,17.31,FALSE
+App Store,6/25/20,Clash Royale,5.4,TRUE
+App Store,6/25/20,Mr. Love,112.56,TRUE
+App Store,7/5/20,Mr. Love,5.4,TRUE
+App Store,7/5/20,iCloud,0.99,FALSE
+App Store,7/9/20,YouTube,17.31,FALSE
+App Store,7/20/20,Mr. Love,5.39,TRUE
+App Store,7/31/20,Mr. Love,4.29,TRUE
+App Store,8/6/20,iCloud,0.99,FALSE
+App Store,8/10/20,YouTube,17.31,FALSE
+App Store,8/10/20,Procreate,10.814175,FALSE
+App Store,8/18/20,Mr. Love,4.32,TRUE
+App Store,8/23/20,Clash Royale,5.4,TRUE
+App Store,9/6/20,iCloud,0.99,FALSE
+App Store,9/9/20,Clash Royale,5.4,TRUE
+App Store,9/9/20,YouTube,17.31,FALSE
+App Store,10/6/20,Clash Royale,5.4,TRUE
+App Store,10/6/20,iCloud,0.99,FALSE
+App Store,10/13/20,YouTube,17.31,FALSE
+App Store,11/3/20,Clash Royale,5.4,TRUE
+App Store,11/6/20,iCloud,0.99,FALSE
+App Store,11/9/20,YouTube,17.31,FALSE
+App Store,11/24/20,Geekbench 5,1.07,FALSE
+App Store,12/6/20,iCloud,0.99,FALSE
+App Store,12/9/20,Clash Royale,5.4,TRUE
+App Store,12/9/20,YouTube,17.31,FALSE
+App Store,12/17/20,Clear Spaces,2.15,FALSE
+Google Play,1/6/19,Watch Face - Pujie Black for Android Wear OS,2.11,FALSE
+Google Play,1/4/20,Fives,4.32,FALSE
+Google Play,4/6/20,100 GB (Google One),21.31,FALSE
