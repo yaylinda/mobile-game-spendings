@@ -203,8 +203,8 @@ ggplot(
     vjust = 0.5,
     hjust = 0,
     family = "mono",
-    size = 5,
-    position = position_nudge(x = -1, y = 20)
+    size = 7,
+    position = position_nudge(x = -1, y = 10)
   ) +
   labs(
     x = "Quarter",
@@ -215,20 +215,42 @@ ggplot(
     caption = ""
   ) +
   scale_fill_hue(
-    labels = paste(spendings_per_label$label, "\n$", round(spendings_per_label$x, digits = 2), sep = "")
+    labels = paste("\n", spendings_per_label$label, "\n$", round(spendings_per_label$x, digits = 2), "\n", sep = "")
   ) +
   theme_economist() +
   theme(
     text = element_text(family = "mono"),
-    plot.title = element_text(size = rel(3)),
-    plot.subtitle = element_text(size = rel(1.5), margin = margin(t = 10, b = 20), hjust = 0),
-    plot.margin = margin(t = 20, b=10, l = 20, r = 20),
-    axis.text.x = element_text(size = rel(1.5), angle = 90),
-    axis.text.y = element_text(size = rel(1.5)),
-    axis.title.x = element_text(size = rel(1.5), margin = margin(t = 20), face = "bold"),
-    axis.title.y = element_text(size = rel(1.5), margin = margin(r = 20), face = "bold"),
+    plot.title = element_text(
+      size = rel(6)
+    ),
+    plot.subtitle = element_text(
+      size = rel(3), 
+      margin = margin(t = 20, b = 40), 
+      hjust = 0
+    ),
+    plot.margin = margin(t = 40, b = 40, l = 40, r = 40),
+    axis.text.x = element_text(
+      size = rel(2), 
+      angle = 90
+    ),
+    axis.text.y = element_text(
+      size = rel(2)
+    ),
+    axis.title.x = element_text(
+      size = rel(2), 
+      margin = margin(t = 40), 
+      face = "bold"
+    ),
+    axis.title.y = element_text(
+      size = rel(2), 
+      margin = margin(r = 40), 
+      face = "bold"
+    ),
     legend.position = "right",
-    legend.text = element_text(size = rel(1.5))
+    legend.text = element_text(
+      size = rel(2)
+    ),
+    legend.margin = margin(l = 40)
   )
 
 
