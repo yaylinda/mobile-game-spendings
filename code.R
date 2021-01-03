@@ -193,7 +193,7 @@ ggplot(
     size = 1.5,
     color = "darkgray"
   ) +
-  geom_label(
+  geom_text(
     data = data.frame(
       x = "2014 Q1",
       y = avg_quarter_spending
@@ -248,7 +248,7 @@ ggplot(
     ),
     legend.position = "right",
     legend.text = element_text(
-      size = rel(2)
+      size = rel(3)
     ),
     legend.margin = margin(l = 40)
   )
